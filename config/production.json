@@ -1,0 +1,6 @@
+{
+    "name": "Movie Genres API",
+    "mail" : {
+        "host": "prod-mail-server"
+    }
+}
